@@ -1,4 +1,4 @@
-Building.create!([
+wBuilding.create!([
   {
     name: "Willis Tower",
     address: "233 S Wacker Dr, Chicago, IL 60606",
